@@ -7,7 +7,7 @@
 
     <div class="student-home-container">
 
-        <h2>Bienvenido/a, <% if (Session["Usuario"] != null) { %><%= Session["Usuario"] %><% } %>!</h2> <%-- Personalized welcome message --%>
+        <h2>Bienvenido/aa, <% if (Session["Usuario"] != null) { %><%= Session["Usuario"] %><% } %>!</h2> <%-- Personalized welcome message --%>
 
         <p>
             ¡Prepárate para aprender inglés de forma divertida! Explora las actividades y juegos que tenemos para ti.
