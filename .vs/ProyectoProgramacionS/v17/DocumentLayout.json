@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\3 diciembre\\ProyectoProgramacionSRevisado\\ProyectoProgramacionS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFB22653-893F-418E-A58F-BA6F0BDE8296}|ProyectoProgramacionS\\ProyectoProgramacionS.csproj|c:\\users\\usuario\\desktop\\3 diciembre\\proyectoprogramacionsrevisado\\proyectoprogramacions\\proyectoprogramacions\\studenthome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AFB22653-893F-418E-A58F-BA6F0BDE8296}|ProyectoProgramacionS\\ProyectoProgramacionS.csproj|solutionrelative:proyectoprogramacions\\studenthome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFB22653-893F-418E-A58F-BA6F0BDE8296}|ProyectoProgramacionS\\ProyectoProgramacionS.csproj|C:\\Users\\Usuario\\Desktop\\3 diciembre\\ProyectoProgramacionSRevisado\\ProyectoProgramacionS\\proyectoprogramacions\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AFB22653-893F-418E-A58F-BA6F0BDE8296}|ProyectoProgramacionS\\ProyectoProgramacionS.csproj|solutionrelative:proyectoprogramacions\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFB22653-893F-418E-A58F-BA6F0BDE8296}|ProyectoProgramacionS\\ProyectoProgramacionS.csproj|C:\\Users\\Usuario\\Desktop\\3 diciembre\\ProyectoProgramacionSRevisado\\ProyectoProgramacionS\\proyectoprogramacions\\actividades.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AFB22653-893F-418E-A58F-BA6F0BDE8296}|ProyectoProgramacionS\\ProyectoProgramacionS.csproj|solutionrelative:proyectoprogramacions\\actividades.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFB22653-893F-418E-A58F-BA6F0BDE8296}|ProyectoProgramacionS\\ProyectoProgramacionS.csproj|C:\\Users\\Usuario\\Desktop\\3 diciembre\\ProyectoProgramacionSRevisado\\ProyectoProgramacionS\\proyectoprogramacions\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFB22653-893F-418E-A58F-BA6F0BDE8296}|ProyectoProgramacionS\\ProyectoProgramacionS.csproj|solutionrelative:proyectoprogramacions\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFB22653-893F-418E-A58F-BA6F0BDE8296}|ProyectoProgramacionS\\ProyectoProgramacionS.csproj|C:\\Users\\Usuario\\Desktop\\3 diciembre\\ProyectoProgramacionSRevisado\\ProyectoProgramacionS\\proyectoprogramacions\\adimnhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AFB22653-893F-418E-A58F-BA6F0BDE8296}|ProyectoProgramacionS\\ProyectoProgramacionS.csproj|solutionrelative:proyectoprogramacions\\adimnhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFB22653-893F-418E-A58F-BA6F0BDE8296}|ProyectoProgramacionS\\ProyectoProgramacionS.csproj|C:\\Users\\Usuario\\Desktop\\3 diciembre\\ProyectoProgramacionSRevisado\\ProyectoProgramacionS\\proyectoprogramacions\\adimnhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFB22653-893F-418E-A58F-BA6F0BDE8296}|ProyectoProgramacionS\\ProyectoProgramacionS.csproj|solutionrelative:proyectoprogramacions\\adimnhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\3 diciembre\\ProyectoProgramacionSRevisado\\ProyectoProgramacionS\\ProyectoProgramacionS\\Web.config",
+              "RelativeDocumentMoniker": "ProyectoProgramacionS\\Web.config",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\3 diciembre\\ProyectoProgramacionSRevisado\\ProyectoProgramacionS\\ProyectoProgramacionS\\Web.config",
+              "RelativeToolTip": "ProyectoProgramacionS\\Web.config",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAhwBIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-03T20:36:11.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentHome.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\3 diciembre\\ProyectoProgramacionSRevisado\\ProyectoProgramacionS\\ProyectoProgramacionS\\StudentHome.aspx",
+              "RelativeDocumentMoniker": "ProyectoProgramacionS\\StudentHome.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\3 diciembre\\ProyectoProgramacionSRevisado\\ProyectoProgramacionS\\ProyectoProgramacionS\\StudentHome.aspx",
+              "RelativeToolTip": "ProyectoProgramacionS\\StudentHome.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-30T15:34:53.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "actividades.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\3 diciembre\\ProyectoProgramacionSRevisado\\ProyectoProgramacionS\\ProyectoProgramacionS\\actividades.aspx",
+              "RelativeDocumentMoniker": "ProyectoProgramacionS\\actividades.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\3 diciembre\\ProyectoProgramacionSRevisado\\ProyectoProgramacionS\\ProyectoProgramacionS\\actividades.aspx",
+              "RelativeToolTip": "ProyectoProgramacionS\\actividades.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-30T15:15:17.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdimnHome.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\3 diciembre\\ProyectoProgramacionSRevisado\\ProyectoProgramacionS\\ProyectoProgramacionS\\AdimnHome.aspx.cs",
+              "RelativeDocumentMoniker": "ProyectoProgramacionS\\AdimnHome.aspx.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\3 diciembre\\ProyectoProgramacionSRevisado\\ProyectoProgramacionS\\ProyectoProgramacionS\\AdimnHome.aspx.cs",
+              "RelativeToolTip": "ProyectoProgramacionS\\AdimnHome.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:53:42.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdimnHome.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\3 diciembre\\ProyectoProgramacionSRevisado\\ProyectoProgramacionS\\ProyectoProgramacionS\\AdimnHome.aspx",
+              "RelativeDocumentMoniker": "ProyectoProgramacionS\\AdimnHome.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\3 diciembre\\ProyectoProgramacionSRevisado\\ProyectoProgramacionS\\ProyectoProgramacionS\\AdimnHome.aspx",
+              "RelativeToolTip": "ProyectoProgramacionS\\AdimnHome.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-30T13:50:45.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\3 diciembre\\ProyectoProgramacionSRevisado\\ProyectoProgramacionS\\ProyectoProgramacionS\\Usuario.cs",
+              "RelativeDocumentMoniker": "ProyectoProgramacionS\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\3 diciembre\\ProyectoProgramacionSRevisado\\ProyectoProgramacionS\\ProyectoProgramacionS\\Usuario.cs",
+              "RelativeToolTip": "ProyectoProgramacionS\\Usuario.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAwIMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:10:26.565Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

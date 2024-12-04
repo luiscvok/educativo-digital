@@ -1,0 +1,123 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Global.master.cs" Inherits="ProyectoProgramacionS.Global" %>
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Your English Friend</title>
+    <style>
+        /* Paleta de colores (manteniendo los que proporcionaste) */
+        :root {
+            --primary: #881107; 
+            --secondary: #d22f19;
+            --tertiary: #c9a0a0;
+            --white: #FFFFFF;
+        }
+
+        body {
+            font-family: 'Comic Sans MS', cursive, sans-serif; /* Comic Sans */
+            margin: 0;
+            background-color: var(--tertiary);
+            color: var(--primary);
+        }
+
+        #sticky-menu {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            background-color: var(--white);
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra más pronunciada */
+            z-index: 100;
+        }
+
+        #menu-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px; /* Más padding */
+        }
+
+        .logo {
+            font-size: 36px; /* Logo más grande */
+            font-weight: bold;
+            animation: bounce 2s infinite; /* Animación de rebote */
+        }
+
+        @keyframes bounce {
+          0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
+          40% { transform: translateY(-10px); }
+          60% { transform: translateY(-5px); }
+        }
+
+        .logo a {
+            color: var(--primary);
+            text-decoration: none;
+        }
+
+        ul.menu-links {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+        }
+
+        li.menu-item {
+            margin: 0 25px; /* Más espacio */
+        }
+
+        a {
+            text-decoration: none;
+            color: var(--primary);
+            font-size: 20px; /* Letras más grandes */
+            transition: transform 0.3s ease, color 0.3s ease; /* Transición suave */
+            padding: 8px 12px;  /* Padding para el efecto hover */
+            border-radius: 8px; /* Bordes redondeados */
+        }
+
+        a:hover {
+            transform: scale(1.1); /* Escalar al pasar el mouse */
+            color: var(--white);
+            background-color: var(--secondary);
+             box-shadow: 0px 0px 10px var(--secondary);
+
+        }
+
+        #main-content {
+            padding-top: 100px; /* Ajustar padding superior */
+            min-height: calc(100vh - 100px);
+        }
+
+
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server"></asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="sticky-menu">
+            <div id="menu-content">
+                <div class="logo"><a href="/">Your English Friend</a></div>
+                <ul class="menu-links">
+                    <li class="menu-item"><a href="/">Home</a></li>
+                    <li class="menu-item"><a href="/Nosotros.aspx">Nosotros</a></li>
+                    <li class="menu-item"><a href="/Contacto.aspx">Contacto</a></li>
+                    <% if (Session["Usuario"] == null) { %>
+                        <li class="menu-item"><a href="/loguearse.aspx">Iniciar Sesión</a></li>
+                        <li class="menu-item"><a href="/Registrarse.aspx">Registrarse</a></li>
+
+                    <% } else { %>
+                        <li class="menu-item">Bienvenido, <%= Session["Usuario"] %></li>
+                        <li class="menu-item"><a href="/CerrarSesion.aspx">Cerrar Sesión</a></li>
+                    <% } %>
+                </ul>
+            </div>
+        </div>
+        <div id="main-content">
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

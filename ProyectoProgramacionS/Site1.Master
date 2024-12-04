@@ -1,0 +1,53 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="ProyectoProgramacionS.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+<style>
+    body{
+        font-family: Arial;
+        font-size: 12px;
+        margin: 0;
+        padding: 0;
+        background-color: slategray;
+        
+    }
+    .caja
+    {
+        float:right;
+    }
+    .val{
+        color: red;
+    }
+
+</style>
+</head>
+<body>
+    <form id="form1" runat="server">
+       <img src="/imagenes/undraw_website_5bo8.svg" width="100%" height="120" />
+      <br />
+      <div class="caja">
+       <table>
+           <tr>
+               <td>Bienvenido:</td>
+               <td><asp:Label ID="lblUsuario" runat="server"></asp:Label> </td>
+           </tr>
+       </table>
+       </div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+       
+        <asp:Menu ID="Menu1" runat="server" Orientation="Horizontal">
+            <Items>
+                <asp:MenuItem NavigateUrl="~/Registro.aspx" Text="Registro" Value="Registro"></asp:MenuItem>
+            </Items>
+        </asp:Menu>
+       
+    </form>
+</body>
+</html>
